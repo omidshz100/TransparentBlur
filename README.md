@@ -24,7 +24,7 @@ To use this code, simply integrate the `Home.swift` file into your SwiftUI proje
 
 ## Preview
 
-To see the project in action, check out the [preview GIF](https://github.com/omidshz100/screenshots/blob/7aee2adb21d2b9aea5056b08bc323504480fabfa/TransparentBlur.gif) that demonstrates the core features.
+To see the project in action, check out the ![preview GIF](https://github.com/omidshz100/screenshots/blob/7aee2adb21d2b9aea5056b08bc323504480fabfa/TransparentBlur.gif) that demonstrates the core features.
 
 ## BlurType Enum
 
